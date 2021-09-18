@@ -4,6 +4,10 @@
   "description": "Unwrap / Unescape / Decode JSON which nested many layers to prevent strange API response hurt your eyes :eyes:",
   "bin": "cli.js",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwwzbwcom/unwrap-json.git"
+  },
   "scripts": {},
   "author": "wwwzbwcom",
   "license": "ISC",
