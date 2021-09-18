@@ -11,5 +11,11 @@
   "scripts": {},
   "author": "wwwzbwcom",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "json",
+    "unwrap",
+    "api",
+    "cli"
+  ]
 }
