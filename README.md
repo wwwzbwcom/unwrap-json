@@ -83,19 +83,19 @@ unwrap-json
 ### File Input
 
 ```bash
-node index.js < input.json
+unwrap-json < input.json
 ```
 
 ### File Output
 
 ```bash
-node index.js > output.json
+unwrap-json > output.json
 ```
 
 ### File Input and File Output
 
 ```bash
-node index.js < input.json > output.json
+unwrap-json < input.json > output.json
 ```
 
 ### Programmatic Usage
