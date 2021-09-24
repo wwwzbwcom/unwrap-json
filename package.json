@@ -1,6 +1,6 @@
 {
   "name": "unwrap-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Unwrap / Unescape / Decode JSON which nested many layers to prevent strange API response hurt your eyes :eyes:",
   "bin": "cli.js",
   "main": "index.js",
